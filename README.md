@@ -181,7 +181,7 @@ Apple stores transcripts directly inside the `.m4a` audio files using a custom M
 
 ```bash
 # Clone the repository
-git clone https://github.com/jwulff/apple-voice-memo-mcp.git
+git clone https://github.com/matteofrassi/apple-voice-memo-mcp.git
 cd apple-voice-memo-mcp
 
 # Install dependencies

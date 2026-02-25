@@ -36,12 +36,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jwulff/apple-voice-memo-mcp.git"
+    "url": "git+https://github.com/matteofrassi/apple-voice-memo-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/jwulff/apple-voice-memo-mcp/issues"
+    "url": "https://github.com/matteofrassi/apple-voice-memo-mcp/issues"
   },
-  "homepage": "https://github.com/jwulff/apple-voice-memo-mcp#readme",
+  "homepage": "https://github.com/matteofrassi/apple-voice-memo-mcp#readme",
   "engines": {
     "node": ">=18.0.0"
   },

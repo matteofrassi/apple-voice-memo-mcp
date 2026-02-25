@@ -15,7 +15,7 @@ Thank you for your interest in contributing to apple-voice-memo-mcp! This docume
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jwulff/apple-voice-memo-mcp.git
+   git clone https://github.com/matteofrassi/apple-voice-memo-mcp.git
    cd apple-voice-memo-mcp
    ```
 

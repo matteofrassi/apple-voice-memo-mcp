@@ -30,3 +30,14 @@ swift-helper/.swiftpm/
 
 # OS files
 Thumbs.db
+
+# Claude Code
+.claude/
+
+# Secrets / credentials
+*.pem
+*.key
+credentials.json
+
+# Internal planning
+PROJECT_PLAN.md
